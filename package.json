@@ -4,7 +4,7 @@
   "description": "一款轻量级，快速帮你搭建博客、官网等基于next的框架",
   "main": "index.js",
   "bin": {
-    "run": "./bin/cli.js"
+    "boke": "./bin/cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

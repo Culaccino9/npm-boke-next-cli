@@ -5,7 +5,7 @@ const figlet = require('figlet');
 const chalk = require('chalk');
 
 program
-  .command('create-boke-app [name]')
+  .command('create [name]')
   .description('创建一个新项目（create a new project）')
   .option('-f, --force', 'overwrite target directory if it exists')
   .action((...arg) => {
