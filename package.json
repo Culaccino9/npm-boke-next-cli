@@ -1,0 +1,26 @@
+{
+  "name": "boke-next-cli",
+  "version": "1.0.0",
+  "description": "一款轻量级，快速帮你搭建博客、官网等基于next的框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Culaccino9/npm-boke-next-cli.git"
+  },
+  "keywords": [
+    "next.js",
+    "raect.js",
+    "ssr",
+    "seo",
+    "blog"
+  ],
+  "author": "WenjieHuang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Culaccino9/npm-boke-next-cli/issues"
+  },
+  "homepage": "https://github.com/Culaccino9/npm-boke-next-cli#readme"
+}
